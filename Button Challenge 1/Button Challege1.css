@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 20%;
+    left: 45%;
+
+}
+ .btn{
+    width: 100px;
+    height: 30px;
+    background-color:  rgb(0, 110, 255);
+    text-align: center;
+    color: white;
+    
+     
+  }
+  .btn span b{
+    position: relative;
+    top: 4px;
+  }
+  .badge{
+   
+border-radius: 50%;
+width: 20px;
+height: 20px;
+background-color: black;
+display: flex;
+display: flex;
+align-items: center;
+justify-content: center;
+position: absolute;
+left: 85px;
+bottom: 20px;
+
+
+
+}
